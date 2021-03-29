@@ -16,6 +16,6 @@ public class Application {
             bean.whatAnimalSay();
         }
     }
-    //cht
+
 
 }
